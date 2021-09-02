@@ -1,4 +1,4 @@
-# Lab 3 - CYBR 2980
+# Lab 3 - CIST 1600
 Conditions, boolean logic, logical operators; ranges;
 Control statements: if-else, loops (for, while); short-circuit evaluation
 
