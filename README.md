@@ -52,7 +52,7 @@ Wins  Ties  Losses
 1     0     1
 ```
 
-## Approximating Pi (ApproxPi.py)
+## Approximating Pi (ApproxPi.py) - Optional for extra credit
 There are many ways to calculate the value of pi. One method is with the following sequence.
 > pi = 4/1 - 4/3 + 4/5 - 4/7 + 4/9 - 4/11 + ...  
 
