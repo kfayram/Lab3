@@ -6,17 +6,18 @@ import math
 import time
 
 def main():
-    realPi = math.pi
+  realPi = math.pi
 
-    #ask user for decimal percision (up to 10)
+  #ask user for decimal percision (up to 10)
 
-    start = time.time()
-    #calculate pi using the approximation technique
-    #Loop until the level of percision is reached
+  start = time.time()
+  #calculate pi using the approximation technique
+  #Loop until the level of percision is reached
 
-    end = time.time()
+  end = time.time()
 
-    elapsedTime = end - start
-    print(elapsedTime)
+  elapsedTime = end - start
+  print(elapsedTime)
 
-main()
+if __name__ == '__main__':
+  main()
