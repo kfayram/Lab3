@@ -5,6 +5,9 @@
 import math
 import time
 
+
+#PLEASE NOTE - This is an optional, extra credit portion of the lab.
+
 def main():
   realPi = math.pi
 
